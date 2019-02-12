@@ -53,3 +53,6 @@ section#content .prices > li{
     font-size: 14px;
     font-weight: 600;
 }
+section#content .content-wrap{
+    padding-top: 30px;
+}
