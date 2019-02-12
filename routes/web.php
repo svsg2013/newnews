@@ -14,3 +14,6 @@
 Route::get('/', function () {
     return view('newnews.home');
 });
+Route::get('/single', function () {
+    return view('newnews.blogSingle');
+});

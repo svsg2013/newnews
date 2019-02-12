@@ -4,7 +4,37 @@
 	Add all your Custom Styled CSS here for New Styles or
 	Overwriting Default Theme Styles for Better Hanlding Updates
 -----------------------------------------------------------------*/
-
-
-
-
+/*
+    chinh noi dung content trong blog single
+ */
+div.entry-title{
+    padding-bottom: 0.9375em;
+}
+section#content ul#list-news li {
+    list-style: none;
+    display: block;
+    position: relative;
+    padding-left: 0.75em;
+}
+section#content ul#list-news li > i{
+    font-size: 0.25em;
+    color: #1ABC9C;
+    position: absolute;
+    top: 5px;
+    left: 0;
+}
+section#content ul#list-news li > a{
+    color: #555;
+}
+section#content ul#list-news li > a:hover{
+    color: #1ABC9C;
+ }
+.entry-content p {
+    margin-bottom: 0.9375em;
+}
+.entry-content blockquote {
+    padding: 5px 20px;
+    margin: 0 0 20px;
+    font-size: 17px;
+    border-left: 5px solid #EEE;
+}
