@@ -38,3 +38,18 @@ section#content ul#list-news li > a:hover{
     font-size: 17px;
     border-left: 5px solid #EEE;
 }
+section#content ul.entry-meta{
+    margin: 0px;
+}
+section#content .entry-content{
+    margin-top: 0px;
+}
+section#content .lineCustom{
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+section#content .prices > li{
+    color: #7c1212;
+    font-size: 14px;
+    font-weight: 600;
+}
