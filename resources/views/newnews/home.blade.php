@@ -6,13 +6,8 @@
     <section id="content">
 
         <div class="content-wrap">
-
-    @include('newnews.partial.breakingNews')
-
             <div class="container clearfix">
-
                 <div class="row">
-
                     <div class="col-lg-8 bottommargin">
                         @include('newnews.partial.SlideNews')
 

@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="{{asset('css/animate.css')}}" type="text/css" />
     <link rel="stylesheet" href="{{asset('css/magnific-popup.css')}}" type="text/css" />
     <link rel="stylesheet" href="{{asset('css/responsive.css')}}" type="text/css" />
+    <link rel="stylesheet" href="{{asset('css/custom.css')}}" type="text/css"/>
 </head>
 
 <body class="stretched">
@@ -50,6 +51,6 @@
 <!-- Footer Scripts
 ============================================= -->
 <script src="{{asset('js/functions.js')}}"></script>
-
+@yield('script')
 </body>
 </html>
