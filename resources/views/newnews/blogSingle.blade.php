@@ -301,7 +301,6 @@
                                         </div>
                                         <ul class="entry-meta clearfix">
                                             <li><i class="icon-calendar3"></i> 9th Sep 2014</li>
-                                            <li><a href="blog-single.html#comments"><i class="icon-comments"></i> 23</a></li>
                                         </ul>
                                         <div class="entry-content">
                                             <p>Neque nesciunt molestias soluta esse debitis. Magni impedit quae consectetur consequuntur.</p>
@@ -319,7 +318,6 @@
                                         </div>
                                         <ul class="entry-meta clearfix">
                                             <li><i class="icon-calendar3"></i> 23rd Aug 2014</li>
-                                            <li><a href="blog-single.html#comments"><i class="icon-comments"></i> 33</a></li>
                                         </ul>
                                         <div class="entry-content">
                                             <p>Eaque iusto quod assumenda beatae, nesciunt aliquid. Vel, eos eligendi?</p>
@@ -337,7 +335,6 @@
                                         </div>
                                         <ul class="entry-meta clearfix">
                                             <li><i class="icon-calendar3"></i> 11th Feb 2014</li>
-                                            <li><a href="blog-single.html#comments"><i class="icon-comments"></i> 13</a></li>
                                         </ul>
                                         <div class="entry-content">
                                             <p>Magni impedit quae consectetur consequuntur adipisci veritatis modi a, officia cum.</p>
@@ -357,7 +354,6 @@
                                         </div>
                                         <ul class="entry-meta clearfix">
                                             <li><i class="icon-calendar3"></i> 17th Jan 2014</li>
-                                            <li><a href="blog-single.html#comments"><i class="icon-comments"></i> 50</a></li>
                                         </ul>
                                         <div class="entry-content">
                                             <p>Neque nesciunt molestias soluta esse debitis. Magni impedit quae consectetur consequuntur.</p>
@@ -375,7 +371,6 @@
                                         </div>
                                         <ul class="entry-meta clearfix">
                                             <li><i class="icon-calendar3"></i> 20th Nov 2014</li>
-                                            <li><a href="blog-single.html#comments"><i class="icon-comments"></i> 13</a></li>
                                         </ul>
                                         <div class="entry-content">
                                             <p>Eaque iusto quod assumenda beatae, nesciunt aliquid. Vel, eos eligendi?</p>
@@ -393,7 +388,6 @@
                                         </div>
                                         <ul class="entry-meta clearfix">
                                             <li><i class="icon-calendar3"></i> 10th Dec 2013</li>
-                                            <li><a href="blog-single.html#comments"><i class="icon-comments"></i> 13</a></li>
                                         </ul>
                                         <div class="entry-content">
                                             <p>Magni impedit quae consectetur consequuntur adipisci veritatis modi a, officia cum.</p>
